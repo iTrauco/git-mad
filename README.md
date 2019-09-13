@@ -1,7 +1,8 @@
 # git-mad
 
-An npm package experiment for node automation and scripting experiments.
+An npm package for node automation and scripting experiments.
 
+[NPM](http://bit.ly/2N9EKsR)
 [GitHub](http://bit.ly/2UQ94cQ)
 
 ### Install
