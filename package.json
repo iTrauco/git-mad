@@ -1,0 +1,22 @@
+{
+  "name": "git-mad",
+  "version": "1.0.0",
+  "description": "npm package management experiment #2",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTrauco/git-mad.git"
+  },
+  "keywords": [
+    "git-mad",
+    "npm",
+    "package",
+    "management"
+  ],
+  "author": "Chris Trauco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTrauco/git-mad/issues"
+  },
+  "homepage": "https://github.com/iTrauco/git-mad#readme"
+}

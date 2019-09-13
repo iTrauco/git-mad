@@ -1,0 +1,1 @@
+console.log('git-mad npm package experiment #1 is a work in progress...');
